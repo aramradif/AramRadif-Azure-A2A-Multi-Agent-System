@@ -2,7 +2,7 @@
 
 Discover Azure AI Agents with A2A
 ________________________________________
-📁 Project Structure
+ Project Structure
 azure-a2a-multi-agent-system/
 │
 ├── title_agent/
