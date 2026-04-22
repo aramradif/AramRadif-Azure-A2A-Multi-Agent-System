@@ -34,7 +34,7 @@ The system simulates a technical content generation pipeline:
 •	 Outline Agent → Generates article outlines 
 •	 Routing Agent → Orchestrates workflow 
 ________________________________________
-⚙️ Architecture
+ Architecture
 User → Routing Agent → Title Agent → Outline Agent → Response
  Key Components
 •	Agent Card → Enables agent discovery 
